@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.bpmn2.model" version="1.90.1"><feature description="" name="com.ibm.xtools.bpmn2.feature" url="" version="1.90.1"/></signature>?>
+<bpmn2:definitions xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:_UfkbkLxuEeGCw9HgBpY34g="http://www.ibm.com/xtools/bpmn/2.0/_UfkbkLxuEeGCw9HgBpY34g"
+    xmlns:_UhWkQLxuEeGCw9HgBpY34g="http://www.ibm.com/xtools/bpmn/2.0/_UhWkQLxuEeGCw9HgBpY34g"
+    xmlns:_Uz-lULxuEeGCw9HgBpY34g="http://www.ibm.com/xtools/bpmn/2.0/_Uz-lULxuEeGCw9HgBpY34g"
+    xmlns:bpmn2="http://www.ibm.com/xtools/bpmn/2.0" xmlns:element="http://www.ibm.com/xmlns/calledElement"
+    xmlns:extensions="http://jazz.net/xmlns/xtools/BPMNExtensions/v0.1" xmlns:glossary="http://com.ibm.bg/glossary"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:rmpnotation="http://www.ibm.com/xtools/1.0.0/rmpnotation"
+    xmlns:tagging="http://www.ibm.com/xmlns/tagging" id="_Uz-lULxuEeGCw9HgBpY34g" name="Apply Capital Accounting Entry Too"
+    expressionLanguage="http://www.w3.org/1999/XPath" targetNamespace="http://www.ibm.com/xtools/bpmn/2.0/_Uz-lULxuEeGCw9HgBpY34g"
+    typeLanguage="http://www.w3.org/2001/XMLSchema">
+  <extensions:diagram xsi:type="rmpnotation:RMPDiagram" xmi:id="_Uz-lU7xuEeGCw9HgBpY34g"
+      visible="true" type="Bpmn2" element="_Uz-lUrxuEeGCw9HgBpY34g" name="Apply Capital Accounting Entry Too"
+      measurementUnit="Himetric" pageX="0" pageY="0" pageWidth="100" pageHeight="100"
+      description="" graphLayout="HorizontalOrthogonalHierarchical" linkLayout="None"
+      labelLayout="None">
+    <children xsi:type="notation:Shape" xmi:id="_dgji4CH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_U0lCQrxuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+        fontHeight="8" bold="true" italic="false" underline="false" strikeThrough="false"
+        description="" fillColor="16777215" transparency="0" lineColor="14263149"
+        lineWidth="1" roundedBendpointsRadius="0">
+      <children xsi:type="rmpnotation:GraphCompartment" xmi:id="_dgji4iH4EeitSbyvYzmMGQ"
+          visible="true" type="Lane Compartment" collapsed="false" canonical="true"
+          showTitle="false" graphLayout="HorizontalOrthogonalHierarchical" linkLayout="None"
+          labelLayout="None">
+        <children xsi:type="notation:Shape" xmi:id="_dglYECH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_U0lCRbxuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dglYESH4EeitSbyvYzmMGQ"
+              x="9352" y="977" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dglYFCH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_U039MrxuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <children xsi:type="notation:DecorationNode" xmi:id="_dglYFiH4EeitSbyvYzmMGQ"
+              visible="true" type="Name">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dglYFyH4EeitSbyvYzmMGQ"
+                x="423" y="889" width="-1" height="-1"/>
+          </children>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dglYFSH4EeitSbyvYzmMGQ"
+              x="13478" y="1325" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dgl_ICH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_eJ-Eb7xuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <children xsi:type="notation:DecorationNode" xmi:id="_dgl_IiH4EeitSbyvYzmMGQ"
+              visible="true" type="Name">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgl_IyH4EeitSbyvYzmMGQ"
+                x="211" y="846" width="-1" height="-1"/>
+          </children>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgl_ISH4EeitSbyvYzmMGQ"
+              x="8294" y="1645" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dgl_JCH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_KgZt1BwsEeOMUpRtwvEXUw" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <children xsi:type="notation:DecorationNode" xmi:id="_dgl_JiH4EeitSbyvYzmMGQ"
+              visible="true" type="Name">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgl_JyH4EeitSbyvYzmMGQ"
+                x="423" y="1058" width="-1" height="-1"/>
+          </children>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgl_JSH4EeitSbyvYzmMGQ"
+              x="1270" y="1910" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dgl_KCH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_KomnkhwsEeOMUpRtwvEXUw" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <children xsi:type="notation:DecorationNode" xmi:id="_dgmmMCH4EeitSbyvYzmMGQ"
+              visible="true" type="Name">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgmmMSH4EeitSbyvYzmMGQ"
+                x="423" y="889" width="-1" height="-1"/>
+          </children>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgl_KSH4EeitSbyvYzmMGQ"
+              x="0" y="1378" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dgmmMiH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_KomnkxwsEeOMUpRtwvEXUw" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <children xsi:type="notation:DecorationNode" xmi:id="_dgmmNCH4EeitSbyvYzmMGQ"
+              visible="true" type="Name">
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgmmNSH4EeitSbyvYzmMGQ"
+                x="423" y="889" width="-1" height="-1"/>
+          </children>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgmmMyH4EeitSbyvYzmMGQ"
+              x="0" y="2653" width="-1" height="-1"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_dglYEiH4EeitSbyvYzmMGQ" visible="true"
+            type="" element="_U0lCSLxuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+            fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+            description="" fillColor="16116705" transparency="0" lineColor="14263149"
+            lineWidth="1" roundedBendpointsRadius="0">
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dglYEyH4EeitSbyvYzmMGQ"
+              x="3050" y="949" width="-1" height="-1"/>
+        </children>
+      </children>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgji4SH4EeitSbyvYzmMGQ"
+          x="0" y="0" width="15402" height="3923"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_dgji4yH4EeitSbyvYzmMGQ" visible="true"
+        type="2036" element="_U039NbxuEeGCw9HgBpY34g" fontColor="0" fontName="Segoe UI"
+        fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+        description="" fillColor="16116705" transparency="0" lineColor="14263149"
+        lineWidth="1" roundedBendpointsRadius="0">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgji5SH4EeitSbyvYzmMGQ"
+          visible="true" type="5032">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgkJ8CH4EeitSbyvYzmMGQ"
+            x="211" y="846" width="-1" height="-1"/>
+      </children>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgji5CH4EeitSbyvYzmMGQ"
+          x="5207" y="4572" width="-1" height="-1"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_qmsbIJZWEei4Sv8UPGTh2A" visible="true"
+        type="2037" element="_qkYuAJZWEei4Sv8UPGTh2A" fontColor="0" fontName="Segoe UI"
+        fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"
+        description="" fillColor="16116705" transparency="0" lineColor="14263149"
+        lineWidth="1" roundedBendpointsRadius="0">
+      <children xsi:type="notation:DecorationNode" xmi:id="_qmtCMJZWEei4Sv8UPGTh2A"
+          visible="true" type="5033">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_qmtCMZZWEei4Sv8UPGTh2A"
+            x="211" y="846" width="-1" height="-1"/>
+      </children>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_qmsbIZZWEei4Sv8UPGTh2A"
+          x="13441" y="4721" width="-1" height="-1"/>
+    </children>
+    <edges xsi:type="notation:Connector" xmi:id="_dgq3oCH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_KuHZuhwsEeOMUpRtwvEXUw" source="_dgl_KCH4EeitSbyvYzmMGQ"
+        target="_dgl_JCH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgresCH4EeitSbyvYzmMGQ"
+          visible="true" type="Name">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgresSH4EeitSbyvYzmMGQ"
+            x="-510" y="-741" width="-1" height="-1"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dgq3oSH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dgq3oiH4EeitSbyvYzmMGQ"
+          points="[0, 0, -1058, -638]$[317, 0, -741, -638]$[317, 497, -741, -141]$[776, 497, -282, -141]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg9LgCH4EeitSbyvYzmMGQ"
+          id="(1.0000000000000004,0.5)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dgresiH4EeitSbyvYzmMGQ"
+          id="left"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dgsFxSH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_eJ-EarxuEeGCw9HgBpY34g" source="_dglYEiH4EeitSbyvYzmMGQ"
+        target="_dglYECH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgss0CH4EeitSbyvYzmMGQ"
+          visible="true" type="Name">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgss0SH4EeitSbyvYzmMGQ"
+            x="0" y="-212" width="-1" height="-1"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dgsFxiH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dgsFxyH4EeitSbyvYzmMGQ"
+          points="[0, 0, -1693, 0]$[317, 0, -1376, 0]$[317, -97, -1376, -97]$[1375, -97, -318, -97]$[1375, 0, -318, 0]$[1693, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg7WUCH4EeitSbyvYzmMGQ"
+          id="(1.0,0.33333284419609316)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg7WUSH4EeitSbyvYzmMGQ"
+          id="(0.0,0.33333284419609316)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dgss0iH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_KuHZvRwsEeOMUpRtwvEXUw" source="_dgmmMiH4EeitSbyvYzmMGQ"
+        target="_dgl_JCH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgss1SH4EeitSbyvYzmMGQ"
+          visible="true" type="Name">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgtT4CH4EeitSbyvYzmMGQ"
+            x="0" y="-212" width="-1" height="-1"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dgss0yH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dgss1CH4EeitSbyvYzmMGQ"
+          points="[0, 0, -1058, 637]$[317, 0, -741, 637]$[317, -496, -741, 141]$[776, -496, -282, 141]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg9LgSH4EeitSbyvYzmMGQ"
+          id="(1.0000000000000004,0.5)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dgtT4SH4EeitSbyvYzmMGQ"
+          id="left"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dgtT4iH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_eJ-EbrxuEeGCw9HgBpY34g" source="_dglYECH4EeitSbyvYzmMGQ"
+        target="_dglYFCH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgtT5SH4EeitSbyvYzmMGQ"
+          visible="true" type="Name">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgtT5iH4EeitSbyvYzmMGQ"
+            x="0" y="-212" width="-1" height="-1"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dgtT4yH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dgtT5CH4EeitSbyvYzmMGQ"
+          points="[0, 0, -636, 0]$[636, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg6vQCH4EeitSbyvYzmMGQ"
+          id="(0.9997135491263248,0.5)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg6vQSH4EeitSbyvYzmMGQ"
+          id="(0.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dgt68CH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_KuHZtxwsEeOMUpRtwvEXUw" source="_dgl_JCH4EeitSbyvYzmMGQ"
+        target="_dglYEiH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dgt68yH4EeitSbyvYzmMGQ"
+          visible="true" type="Name">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_dgt69CH4EeitSbyvYzmMGQ"
+            x="0" y="-212" width="-1" height="-1"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dgt68SH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dgt68iH4EeitSbyvYzmMGQ"
+          points="[422, 0, -952, 691]$[740, 0, -634, 691]$[740, -691, -634, 0]$[1374, -691, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dgt69SH4EeitSbyvYzmMGQ"
+          id="right"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dg8kcCH4EeitSbyvYzmMGQ"
+          id="(0.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dhGVcCH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_eJ-EerxuEeGCw9HgBpY34g" source="_dgl_ICH4EeitSbyvYzmMGQ"
+        target="_dglYECH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <styles xsi:type="notation:FontStyle" xmi:id="_dhGVcSH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dhGVciH4EeitSbyvYzmMGQ"
+          points="[0, 0, -636, 98]$[318, 0, -318, 98]$[318, -98, -318, 0]$[636, -98, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dhNDICH4EeitSbyvYzmMGQ"
+          id="(0.9976359338061466,0.5000000000000007)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dhNDISH4EeitSbyvYzmMGQ"
+          id="(0.0,0.6666664220980466)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dhHjkCH4EeitSbyvYzmMGQ" visible="true"
+        type="" element="_eJ-Ec7xuEeGCw9HgBpY34g" source="_dglYEiH4EeitSbyvYzmMGQ"
+        target="_dgl_ICH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <styles xsi:type="notation:FontStyle" xmi:id="_dhHjkSH4EeitSbyvYzmMGQ" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dhHjkiH4EeitSbyvYzmMGQ"
+          points="[0, 0, -635, -98]$[317, 0, -318, -98]$[317, 98, -318, 0]$[635, 98, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dhNqMCH4EeitSbyvYzmMGQ"
+          id="(1.0,0.6666664220980466)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dhNqMSH4EeitSbyvYzmMGQ"
+          id="(0.0,0.5000000000000007)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ylFf8JZUEei4Sv8UPGTh2A" visible="true"
+        type="" element="_ylB1kJZUEei4Sv8UPGTh2A" source="_dgji4yH4EeitSbyvYzmMGQ"
+        target="_dglYEiH4EeitSbyvYzmMGQ" roundedBendpointsRadius="4" routing="Rectilinear"
+        smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None"
+        jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="8421504" lineWidth="1">
+      <styles xsi:type="notation:FontStyle" xmi:id="_ylFf8ZZUEei4Sv8UPGTh2A" fontColor="0"
+          fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false"
+          strikeThrough="false"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ylFf8pZUEei4Sv8UPGTh2A"
+          points="[8, -7, 1, 120]$[8, -113, 1, 14]"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ylH8MJZUEei4Sv8UPGTh2A"
+          id="(0.4102787456445993,0.7836213373403456)"/>
+    </edges>
+  </extensions:diagram>
+  <bpmn2:import xmi:id="_U0lCQ7xuEeGCw9HgBpY34g" importType="http://www.ibm.com/xtools/bpmn/2.0"
+      location="../../Global%20Items/Global%20Definitions.bpmx" namespace="http://www.ibm.com/xtools/bpmn/2.0/_UhWkQLxuEeGCw9HgBpY34g"/>
+  <bpmn2:import xmi:id="_U039NrxuEeGCw9HgBpY34g" importType="http://www.ibm.com/xtools/bpmn/2.0"
+      location="../../Global%20Items/Global%20Business%20Terms.bpmx" namespace="http://www.ibm.com/xtools/bpmn/2.0/_UfkbkLxuEeGCw9HgBpY34g"/>
+  <bpmn2:import xmi:id="_AbaJYlirEeWZvfl3u_nHVg" importType="http:///glossary.ecore"
+      location="file:/C:\com.ibm.bg.core\glossary.xmi" namespace="http://com.ibm.bg/glossary"/>
+  <bpmn2:extension xmi:id="_Uz-lUbxuEeGCw9HgBpY34g" definition="extensions:Extensions"
+      mustUnderstand="false"/>
+  <bpmn2:extension xmi:id="_nDXp8hwqEeOMUpRtwvEXUw" definition="tagging:tags" mustUnderstand="false"/>
+  <bpmn2:extension xmi:id="_F-IF0fxiEeOPPNUUqxVo0g" definition="element:calledElementType"
+      mustUnderstand="false"/>
+  <bpmn2:process id="_Uz-lUrxuEeGCw9HgBpY34g" name="Apply Capital Accounting Entry Too">
+    <bpmn2:documentation id="_U0lCQLxuEeGCw9HgBpY34g">SHORT NAME: Apply Cptl Acctg Entry Too&#xD;
+  &#xD;
+B LEVEL ROOT: Apply Accounting Entry&#xD;
+  &#xD;
+DEFINITION: To put a capital accounting entry to practical use.&#xD;
+  &#xD;
+DESCRIPTION: This activity string encompasses the activities to apply an entry to the capital account on the books of the financial institution. This is usually the general ledger, but alternatively it may be a nominal or subsidiary ledger.&#xD;
+&#xD;
+FLOW DIAGRAM: AS Chart for Apply Capital Accounting Entry&#xD;
+&#xD;
+IBM Unique ID: CBPC04509</bpmn2:documentation>
+    <bpmn2:extensionElements xmi:id="_nDXp8BwqEeOMUpRtwvEXUw">
+      <tagging:tag xmi:id="_jlfywCH2EeitSbyvYzmMGQ">Accounting Management</tagging:tag>
+    </bpmn2:extensionElements>
+    <bpmn2:ioSpecification id="_6tBF0JZTEei4Sv8UPGTh2A">
+      <bpmn2:dataInput id="_U039NbxuEeGCw9HgBpY34g" name="Accounting Unit" isCollection="false"
+          itemSubjectRef="_UfkbkLxuEeGCw9HgBpY34g:_UkCr4LxuEeGCw9HgBpY34g"/>
+      <bpmn2:inputSet id="_U039NLxuEeGCw9HgBpY34g">
+        <bpmn2:dataInputRefs>_U039NbxuEeGCw9HgBpY34g</bpmn2:dataInputRefs>
+      </bpmn2:inputSet>
+      <bpmn2:inputSet id="_qkZ8IJZWEei4Sv8UPGTh2A"/>
+      <bpmn2:outputSet id="_qkZ8IZZWEei4Sv8UPGTh2A">
+        <bpmn2:dataOutputRefs>_qkYuAJZWEei4Sv8UPGTh2A</bpmn2:dataOutputRefs>
+      </bpmn2:outputSet>
+    </bpmn2:ioSpecification>
+    <bpmn2:lane id="_U0lCQrxuEeGCw9HgBpY34g" name="Financial Accountant" partitionElementRef="_UhWkQLxuEeGCw9HgBpY34g:_U0lCQbxuEeGCw9HgBpY34g">
+      <bpmn2:documentation id="_U0lCRLxuEeGCw9HgBpY34g">A party who performs accounting functions such as audits or financial statement analysis.</bpmn2:documentation>
+      <bpmn2:flowElementRef>_U0lCRbxuEeGCw9HgBpY34g</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_U039MrxuEeGCw9HgBpY34g</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_eJ-EbrxuEeGCw9HgBpY34g</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_eJ-Eb7xuEeGCw9HgBpY34g</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KgZt1BwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KomnkhwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KomnkxwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KuHZtxwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KuHZuhwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_KuHZvRwsEeOMUpRtwvEXUw</bpmn2:flowElementRef>
+      <bpmn2:flowElementRef>_U0lCSLxuEeGCw9HgBpY34g</bpmn2:flowElementRef>
+    </bpmn2:lane>
+    <bpmn2:callActivity id="_U0lCRbxuEeGCw9HgBpY34g" name="Apply Accounting Entry"
+        isForCompensation="false" calledElement="_UhWkQLxuEeGCw9HgBpY34g:_UzrqZbxuEeGCw9HgBpY34g">
+      <bpmn2:documentation id="_U0lCR7xuEeGCw9HgBpY34g">  </bpmn2:documentation>
+      <bpmn2:extensionElements xmi:id="_F-IF0PxiEeOPPNUUqxVo0g">
+        <element:type xmi:id="_jlhA4CH2EeitSbyvYzmMGQ">GlobalTask</element:type>
+      </bpmn2:extensionElements>
+      <bpmn2:ioSpecification id="_6tCT8JZTEei4Sv8UPGTh2A">
+        <bpmn2:dataInput id="_eJ-EebxuEeGCw9HgBpY34g" name="Accounting Unit" isCollection="false"
+            itemSubjectRef="_UfkbkLxuEeGCw9HgBpY34g:_UkCr4LxuEeGCw9HgBpY34g"/>
+        <bpmn2:inputSet id="_eJ-EeLxuEeGCw9HgBpY34g">
+          <bpmn2:dataInputRefs>_eJ-EebxuEeGCw9HgBpY34g</bpmn2:dataInputRefs>
+        </bpmn2:inputSet>
+        <bpmn2:outputSet id="_OWkuIBwsEeOMUpRtwvEXUw" name="OutputSet1"/>
+      </bpmn2:ioSpecification>
+      <bpmn2:dataInputAssociation id="_eJ-EerxuEeGCw9HgBpY34g" name="Accounting Unit">
+        <bpmn2:sourceRef>_Uz-lULxuEeGCw9HgBpY34g:_eJ-Eb7xuEeGCw9HgBpY34g</bpmn2:sourceRef>
+        <bpmn2:targetRef>_Uz-lULxuEeGCw9HgBpY34g:_eJ-EebxuEeGCw9HgBpY34g</bpmn2:targetRef>
+      </bpmn2:dataInputAssociation>
+      <bpmn2:resourceRole id="_U0lCRrxuEeGCw9HgBpY34g" name="ResourceRole1">
+        <bpmn2:resourceRef>_UhWkQLxuEeGCw9HgBpY34g:_U0lCQbxuEeGCw9HgBpY34g</bpmn2:resourceRef>
+      </bpmn2:resourceRole>
+    </bpmn2:callActivity>
+    <bpmn2:callActivity id="_U0lCSLxuEeGCw9HgBpY34g" name="Retrieve Capital Accounting Unit"
+        isForCompensation="false" calledElement="_UhWkQLxuEeGCw9HgBpY34g:_U1BuMbxuEeGCw9HgBpY34g">
+      <bpmn2:documentation id="_U039MbxuEeGCw9HgBpY34g">  </bpmn2:documentation>
+      <bpmn2:extensionElements xmi:id="_F-IF0vxiEeOPPNUUqxVo0g">
+        <element:type xmi:id="_jliPACH2EeitSbyvYzmMGQ">GlobalTask</element:type>
+      </bpmn2:extensionElements>
+      <bpmn2:ioSpecification id="_6tDiEJZTEei4Sv8UPGTh2A">
+        <bpmn2:dataInput id="_eKHOQbxuEeGCw9HgBpY34g" name="Accounting Unit" isCollection="false"
+            itemSubjectRef="_UfkbkLxuEeGCw9HgBpY34g:_UkCr4LxuEeGCw9HgBpY34g"/>
+        <bpmn2:dataOutput id="_eJ-EcrxuEeGCw9HgBpY34g" name="Accounting Unit" isCollection="false"
+            itemSubjectRef="_UfkbkLxuEeGCw9HgBpY34g:_UkCr4LxuEeGCw9HgBpY34g"/>
+        <bpmn2:inputSet id="_eKHOQLxuEeGCw9HgBpY34g">
+          <bpmn2:dataInputRefs>_eKHOQbxuEeGCw9HgBpY34g</bpmn2:dataInputRefs>
+        </bpmn2:inputSet>
+        <bpmn2:outputSet id="_eJ-EcbxuEeGCw9HgBpY34g">
+          <bpmn2:dataOutputRefs>_eJ-EcrxuEeGCw9HgBpY34g</bpmn2:dataOutputRefs>
+        </bpmn2:outputSet>
+      </bpmn2:ioSpecification>
+      <bpmn2:dataInputAssociation id="_ylB1kJZUEei4Sv8UPGTh2A">
+        <bpmn2:sourceRef>_Uz-lULxuEeGCw9HgBpY34g:_U039NbxuEeGCw9HgBpY34g</bpmn2:sourceRef>
+        <bpmn2:targetRef>_Uz-lULxuEeGCw9HgBpY34g:_eKHOQbxuEeGCw9HgBpY34g</bpmn2:targetRef>
+      </bpmn2:dataInputAssociation>
+      <bpmn2:dataOutputAssociation id="_eJ-Ec7xuEeGCw9HgBpY34g" name="Accounting Unit">
+        <bpmn2:sourceRef>_Uz-lULxuEeGCw9HgBpY34g:_eJ-EcrxuEeGCw9HgBpY34g</bpmn2:sourceRef>
+        <bpmn2:targetRef>_Uz-lULxuEeGCw9HgBpY34g:_eJ-Eb7xuEeGCw9HgBpY34g</bpmn2:targetRef>
+      </bpmn2:dataOutputAssociation>
+      <bpmn2:resourceRole id="_7P5JYJZTEei4Sv8UPGTh2A" name="ResourceRole1">
+        <bpmn2:resourceRef>_UhWkQLxuEeGCw9HgBpY34g:_U0lCQbxuEeGCw9HgBpY34g</bpmn2:resourceRef>
+      </bpmn2:resourceRole>
+    </bpmn2:callActivity>
+    <bpmn2:endEvent id="_U039MrxuEeGCw9HgBpY34g" name="End">
+      <bpmn2:messageEventDefinition id="_eJ-EbLxuEeGCw9HgBpY34g" name="Accounting Entry Applied">
+        <bpmn2:documentation id="_eJ-EbbxuEeGCw9HgBpY34g">FULL NAME: Expected Activity Completed&#xD;
+&#xD;
+TRIGGER CATEGORY: Incident Driven&#xD;
+&#xD;
+DEFINITION: An expected specific, but otherwise not categorized occurrence of interest to the business has ended.&#xD;
+&#xD;
+EXAMPLES OF USE: A plan to relocate headquarters staff has been set in motion on the completion of negotiations to buy a development site.</bpmn2:documentation>
+      </bpmn2:messageEventDefinition>
+    </bpmn2:endEvent>
+    <bpmn2:sequenceFlow id="_eJ-EarxuEeGCw9HgBpY34g" name="Capital Accounting Unit Retrieved"
+        sourceRef="_U0lCSLxuEeGCw9HgBpY34g" targetRef="_U0lCRbxuEeGCw9HgBpY34g">
+      <bpmn2:documentation id="_eJ-Ea7xuEeGCw9HgBpY34g">FULL NAME: Information Provided&#xD;
+&#xD;
+TRIGGER CATEGORY: Incident Driven&#xD;
+&#xD;
+DEFINITION: An expected occurrence of interest to the business has resulted in the provision of some form of information for use.&#xD;
+&#xD;
+EXAMPLES OF USE: The Financial Institution has retrieved information on deposit products and has made it available for use by a clerk following a customer enquiry. The Financial Institution has completed the specification of a new foreign exchange service, and the details have been made available for assessment.&#xD;
+&#xD;
+N.B. This Trigger Type covers the outcome of Activities using verbs such as Manipulate, Activate and Prepare.</bpmn2:documentation>
+    </bpmn2:sequenceFlow>
+    <bpmn2:sequenceFlow id="_eJ-EbrxuEeGCw9HgBpY34g" name="Accounting Entry Applied"
+        sourceRef="_U0lCRbxuEeGCw9HgBpY34g" targetRef="_U039MrxuEeGCw9HgBpY34g"/>
+    <bpmn2:dataObject id="_eJ-Eb7xuEeGCw9HgBpY34g" name="Accounting Unit" isCollection="false"
+        itemSubjectRef="_UfkbkLxuEeGCw9HgBpY34g:_UkCr4LxuEeGCw9HgBpY34g"/>
+    <bpmn2:exclusiveGateway id="_KgZt1BwsEeOMUpRtwvEXUw" name="ExclusiveGateway1"/>
+    <bpmn2:startEvent id="_KomnkhwsEeOMUpRtwvEXUw" name="Start:1">
+      <bpmn2:messageEventDefinition id="_KuHZuBwsEeOMUpRtwvEXUw" name="Event Scheduled">
+        <bpmn2:documentation id="_KuHZuRwsEeOMUpRtwvEXUw">FULL NAME:  Event Scheduled&#xD;
+&#xD;
+TRIGGER CATEGORY: Incident Driven&#xD;
+&#xD;
+DEFINITION:  An expected occurrence of interest to the business has resulted in the planning of an event to occur at a specified time in the future.&#xD;
+&#xD;
+EXAMPLES OF USE:  A meeting has been scheduled as a result of a customer enquiry activity to discuss product requirements.  A loan repayment schedule has been created to establish of a series of repayment due dates.</bpmn2:documentation>
+      </bpmn2:messageEventDefinition>
+    </bpmn2:startEvent>
+    <bpmn2:startEvent id="_KomnkxwsEeOMUpRtwvEXUw" name="Start:2">
+      <bpmn2:timerEventDefinition id="_KuHZuxwsEeOMUpRtwvEXUw" name="Date Reached">
+        <bpmn2:documentation id="_KuHZvBwsEeOMUpRtwvEXUw">FULL NAME: Date Reached&#xD;
+&#xD;
+TRIGGER CATEGORY: Time Driven&#xD;
+&#xD;
+DEFINITION: A Time Trigger Type denoting that a specified date has been reached.&#xD;
+&#xD;
+EXAMPLES OF USE: On 25th June 1993, an insurance policy has matured and a payment to the customer is generated.</bpmn2:documentation>
+      </bpmn2:timerEventDefinition>
+    </bpmn2:startEvent>
+    <bpmn2:sequenceFlow id="_KuHZtxwsEeOMUpRtwvEXUw" name="" sourceRef="_KgZt1BwsEeOMUpRtwvEXUw"
+        targetRef="_U0lCSLxuEeGCw9HgBpY34g"/>
+    <bpmn2:sequenceFlow id="_KuHZuhwsEeOMUpRtwvEXUw" name="Event Scheduled" sourceRef="_KomnkhwsEeOMUpRtwvEXUw"
+        targetRef="_KgZt1BwsEeOMUpRtwvEXUw"/>
+    <bpmn2:sequenceFlow id="_KuHZvRwsEeOMUpRtwvEXUw" name="Date Reached" sourceRef="_KomnkxwsEeOMUpRtwvEXUw"
+        targetRef="_KgZt1BwsEeOMUpRtwvEXUw"/>
+  </bpmn2:process>
+  <bpmn2:relationship id="_AbaJYVirEeWZvfl3u_nHVg" name="6662c0f2.e1b1ec6c.a6t4vfdd2.nb6hkda.p9qdmb.k51laeo8ko1cs54i039tb;IBM Banking and Financial Markets Business Vocabulary::Scopes::Process And Service Model Scopes::BPS - Basel II Risk Management::_Assigned Assets For BPS - Basel II Risk Management"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t4vfdd2_nb6hkda_p9qdmb_k51laeo8ko1cs54i039tb</bpmn2:target>
+  </bpmn2:relationship>
+  <bpmn2:relationship id="_AbaJY1irEeWZvfl3u_nHVg" name="6662c0f2.e1b1ec6c.a6t4vfdbp.hpo4783.vhglup.nahlvhv041noq4kh98il2;IBM Banking and Financial Markets Business Vocabulary::Scopes::Process And Service Model Scopes::BPS - Direct Debits::_Assigned Assets For BPS - Direct Debits"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t4vfdbp_hpo4783_vhglup_nahlvhv041noq4kh98il2</bpmn2:target>
+  </bpmn2:relationship>
+  <bpmn2:relationship id="_AbaJZFirEeWZvfl3u_nHVg" name="6662c0f2.e1b1ec6c.a6t4vfdbr.chgr0so.h9tucp.n42miujjsrvkj6e7f7cqq;IBM Banking and Financial Markets Business Vocabulary::Scopes::Process And Service Model Scopes::BPS - Mortgages - Commercial Lending::_Assigned Assets For BPS - Mortgages - Commercial Lending"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t4vfdbr_chgr0so_h9tucp_n42miujjsrvkj6e7f7cqq</bpmn2:target>
+  </bpmn2:relationship>
+  <bpmn2:relationship id="_AbaJZVirEeWZvfl3u_nHVg" name="6662c0f2.e1b1ec6c.a6t4vfdbt.3ktic0g.egeee8.k2p8mef4msi5e1275vlbq;IBM Banking and Financial Markets Business Vocabulary::Scopes::Process And Service Model Scopes::BPS - Payments::_Assigned Assets For BPS - Payments"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t4vfdbt_3ktic0g_egeee8_k2p8mef4msi5e1275vlbq</bpmn2:target>
+  </bpmn2:relationship>
+  <bpmn2:relationship id="_AbaJZlirEeWZvfl3u_nHVg" name="6662c0f2.e1b1ec6c.a6t4vfdc1.nj1ms4k.h4egag.354nancuvg0a2l99r3qmm;IBM Banking and Financial Markets Business Vocabulary::Scopes::Process And Service Model Scopes::BPS - Syndicated Lending::_Assigned Assets For BPS - Syndicated Lending"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t4vfdc1_nj1ms4k_h4egag_354nancuvg0a2l99r3qmm</bpmn2:target>
+  </bpmn2:relationship>
+  <bpmn2:relationship id="_pzbqRQeeEea0GsoK3KwE8g" name="6662c0f2.e1b1ec6c.a6t507oai.bbd5ma7.4a60c5.gb88ji482ncp9li96eomo;IBM Banking and Financial Markets Business Vocabulary::Business Functions::All Activities::Accounting Entry Activities::Apply accounting entry"
+      type="GLOSSARY">
+    <bpmn2:source>_Uz-lULxuEeGCw9HgBpY34g:_Uz-lUrxuEeGCw9HgBpY34g</bpmn2:source>
+    <bpmn2:target>glossary:_6662c0f2_e1b1ec6c_a6t507oai_bbd5ma7_4a60c5_gb88ji482ncp9li96eomo</bpmn2:target>
+  </bpmn2:relationship>
+</bpmn2:definitions>
